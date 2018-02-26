@@ -6,3 +6,4 @@
 # Solution
 
 # References
+https://codereview.stackexchange.com/questions/105174/project-euler-12-in-racket
