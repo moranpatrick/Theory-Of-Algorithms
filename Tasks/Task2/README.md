@@ -8,8 +8,9 @@
 #lang racket
 
 (define (even-odd n)
-  (if (even? n)
-      ; If the number is even perform this equation
+  (if (= (modulo n 2) 0)
+      ; If the remainder of the number dived by 2 = 0 then its an even number
+      ; Perform this equation
       (/ n 2)
       ; Otherwise perform this equation
       (+ 1 (* 3 n))))
@@ -43,4 +44,6 @@
 
 # References
 http://cs.umw.edu/~finlayson/class/fall13/cpsc401/notes/10-racket.html   
-https://docs.racket-lang.org/reference/if.html 
+https://docs.racket-lang.org/reference/if.html  
+   
+

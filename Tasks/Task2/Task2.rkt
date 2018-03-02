@@ -1,8 +1,9 @@
 #lang racket
 
 (define (even-odd n)
-  (if (even? n)
-      ; If the number is even perform this equation
+  (if (= (modulo n 2) 0)
+      ; If the remainder of n dived by 2 = 0 then its an even number
+      ; Perform this equation
       (/ n 2)
       ; Otherwise perform this equation
       (+ 1 (* 3 n))))
