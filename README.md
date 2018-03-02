@@ -15,12 +15,12 @@
 * [References](#references)
 
 # Introduction<a name = "intro"></a>
-My name is [Patrick Moran](https://www.linkedin.com/in/patrick-moran-7a349014b/) and this repository contains Functional Programming solutions to 10 Tasks, written in Racket, which are set by our [Lecturer](https://ianmcloughlin.github.io/) throughout the semester. To view the problem sheet containing the tasks click [here](). The following [section](#tasks) contains links to each task; alternatively click [here](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks).
+My name is [Patrick Moran](https://www.linkedin.com/in/patrick-moran-7a349014b/) and this repository contains Functional Programming solutions to 10 Tasks, written in Racket, which are set by our [Lecturer](https://ianmcloughlin.github.io/) throughout the semester. To view the problem sheet containing the tasks click [here](https://github.com/moranpatrick/Theory-Of-Algorithms/blob/master/Tasks.pdf). The following [section](#tasks) contains links to each task; alternatively click [here](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks).
 
 [Top](#contents) 
 
 # Tasks<a name = "tasks"> </a> 
-| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) |
+| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) | [Task3]() |
 
 
 [Top](#contents)   
