@@ -20,7 +20,7 @@ My name is [Patrick Moran](https://www.linkedin.com/in/patrick-moran-7a349014b/)
 [Top](#contents) 
 
 # Tasks<a name = "tasks"> </a> 
-| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) | [Task3]() |
+| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) | [Task3](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task3) |
 
 
 [Top](#contents)   
