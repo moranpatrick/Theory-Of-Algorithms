@@ -13,4 +13,6 @@
 
 # References
 https://stackoverflow.com/a/13051387  
-https://stackoverflow.com/a/29137191 
+https://stackoverflow.com/a/29137191   
+https://stackoverflow.com/a/5007129  
+ https://stackoverflow.com/a/13175325
