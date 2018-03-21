@@ -59,6 +59,9 @@ Where n = 12, this is the sequence:
 ## Output
 <img src="images/output.png">
 
+# Conclusion
+I found this task using Collatz conjecture very interesting and a step up in difficulty in comparison to the first task.
+
 # References
 http://cs.umw.edu/~finlayson/class/fall13/cpsc401/notes/10-racket.html     
 https://docs.racket-lang.org/reference/if.html    
