@@ -13,12 +13,15 @@
     ; Add each combination, check == 0 and diaplay if so 
     (if(= 0 (sum i))
        (display i)
-       '() )))
+       '())))
 
 ; Test Cases
+(display "Subsets equalling zero for (list 1 2 3 4 -5):\n")
 (sublsum (list 1 2 3 4 -5))
-(display "\n\n")
+(display "\n\nSubsets equalling zero for (list 1 2 3 4 5):\n")
 (sublsum (list 1 2 3 4 5))
+(display "\n\nSubsets equalling zero for (list -7 -3 -2 5 8):\n")
+(sublsum (list -7 -3 -2 5 8))
 
 
   
