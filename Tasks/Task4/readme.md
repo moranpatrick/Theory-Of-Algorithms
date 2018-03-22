@@ -7,7 +7,7 @@
 The Subset sum problem is: Given a set of integers, is there a non empty subset that sums to zero. This problem is one of the [NP Complete](https://en.wikipedia.org/wiki/NP-completeness) problems.
 
 # My Solution
-Full Solution with comments can be found [here](https://github.com/moranpatrick/Theory-Of-Algorithms/blob/master/Tasks/Task3/Task4.rkt).
+Full Solution with comments can be found [here](https://github.com/moranpatrick/Theory-Of-Algorithms/blob/master/Tasks/Task4/Task4.rkt).
 ```Racket
 #lang racket
 
