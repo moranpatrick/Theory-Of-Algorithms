@@ -25,5 +25,3 @@
 (display "(list 2 1 7 3 8 9 6)\t(list 2 2 3 3 7 9 6)\tis:\t")
 (hamming-distance (list 2 1 7 3 8 9 6)(list 2 2 3 3 7 9 6))
 
-(display "(list 1 0 1 0 1 0 0)\t'()\t\t\tis:\t")
-(hamming-distance (list 1 0 1 0 1 0 0)'())
