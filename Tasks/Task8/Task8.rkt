@@ -17,6 +17,12 @@
   )
 
 ; Test Cases
+(displayln "***************** CHSE Results *****************\n")
+(displayln "(list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 ) (list 0 1 0 1 0 1 0 1) is:" )
 (chse (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1))
+
+(displayln "(list 0 1 0 1 0 1 0 1) (list 1 1 1 1 0 0 1 1) (list 1 1 0 1 0 0 0 1) is:" )
 (chse (list 0 1 0 1 0 1 0 1) (list 1 1 1 1 0 0 1 1) (list 1 1 0 1 0 0 0 1))
-(chse (list 0 1 0 1 0 1 0 1) '() '())
+
+(displayln "(list 0 1 0 1 0 1 0 1) (list 1 0 1 1 0 1 0 0) (list 0 0 0 1 1 1 0 1) is:" )
+(chse (list 0 1 0 1 0 1 0 1) (list 1 0 1 1 0 1 0 0) (list 0 0 0 1 1 1 0 1))
