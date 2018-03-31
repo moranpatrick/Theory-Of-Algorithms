@@ -39,6 +39,6 @@ Full Solution with comments can be found [here](https://github.com/moranpatrick/
 After completing task 7, this task wasn't too difficult and was completed relatively quick. It should be noted that, this solution works with list inputs of the same size and with list elements of 1's and 0's.
 
 # References
-
+https://github.com/moranpatrick/Theory-Of-Algorithms/blob/master/Tasks/Task7/Task7.rkt  
 
 
