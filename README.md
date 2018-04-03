@@ -58,6 +58,12 @@ Racket is a general-purpose programming language, a dialect of Lisp and a descen
 ## Installing Racket
 * Simply click [here](https://download.racket-lang.org/) and follow the instructions to install Racket on your machine.
 * Once installed you can now use the DrRacket programming envoirnment.
+
+## Dr Racket IDE
+
+<img src="images/racket.png" > 
+
+You can compile and run racket files from the command line but Racket includes a cross-platform graphical IDE called Dr. Racket. This IDE allows you to edit, run and debug .rkt files and other languages based on Racket.
  
 [Top](#contents) 
 
@@ -72,7 +78,8 @@ To Run any of my solutions:
 
 # References<a name = "references"></a>
 https://en.wikipedia.org/wiki/Functional_programming  
-https://racket-lang.org/  
+https://racket-lang.org/    
+https://beautifulracket.com/  
 
 [Top](#contents) 
 

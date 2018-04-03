@@ -46,7 +46,7 @@ Full Solution with comments can be found [here](https://github.com/moranpatrick/
 <img src="images/output.png">
 
 # Conclusion
-
+The first task here was to figure out the distance formula using pen and paper. Then I proceeded to code up a solution for this task. The only issue that slowed me down with this task was getting the main condition order right.
 
 # References
 http://people.cs.uchicago.edu/~adamshaw/cmsc15100-2017/typed-racket-guide/part-01.html  
