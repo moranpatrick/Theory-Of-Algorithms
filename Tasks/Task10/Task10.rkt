@@ -1,6 +1,5 @@
 #lang racket
 
-
 ; Straight forward squared function - takes in a number, multiplys by itself and returns answer
 ; Adapted http://people.cs.uchicago.edu/~adamshaw/cmsc15100-2017/typed-racket-guide/part-01.html
 (define (sq x)
@@ -8,10 +7,13 @@
 
 (define (lstq l m)
   (cond
-     ; Check if either list if null if so return 0
+     ; Check if either list is null, if so return 0
      [(null? l) 0]
      [(null? m) 0]
-     [(+ (sq (- (car l) (car m))) (lstq (cdr l) (cdr m)))]
+     ; Subtarct m from l, Get The Square Root and add
+     [(+ (sq (- (car l) (car m)))
+         ; Recurse on the function with the cdr of the ramaining lists
+         (lstq (cdr l) (cdr m)))]
      )
   )
 
