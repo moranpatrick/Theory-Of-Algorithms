@@ -45,7 +45,7 @@ Brute-force algorithms will always find a solution if it exists and they are eas
 ## Output
 <img src="images/output.PNG">
 
-# Findings
+# Conclusion
 The most difficult part of this task was trying to get used of functional programming as I'm so used of imperative languages. I first figured out how to solve the problem in [Java](https://codereview.stackexchange.com/questions/24704/efficiently-determining-if-a-number-is-prime), then in Racket.
 
 # References
