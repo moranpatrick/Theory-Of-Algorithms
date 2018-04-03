@@ -20,7 +20,7 @@ My name is [Patrick Moran](https://www.linkedin.com/in/patrick-moran-7a349014b/)
 [Top](#contents) 
 
 # Tasks<a name = "tasks"> </a> 
-| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) | [Task3](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task3) | [Task4](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task4) | [Task5](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task5) | [Task6](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task6) | [Task7](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task7) | [Task8](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task8)
+| [Task1](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task1) | [Task2](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task2) | [Task3](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task3) | [Task4](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task4) | [Task5](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task5) | [Task6](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task6) | [Task7](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task7) | [Task8](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task8) | [Task9](https://github.com/moranpatrick/Theory-Of-Algorithms/tree/master/Tasks/Task9)
 
 
 [Top](#contents)   
